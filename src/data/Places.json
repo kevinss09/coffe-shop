@@ -1,0 +1,34 @@
+[
+	{
+		"id": 1,
+		"image": "images/Granville-Street.png",
+		"street": "Granville Street",
+		"call": "604 208 7994",
+		"mail": "Granville_Broadway @gmail.com",
+		"clock": "06:00 - 23:00"
+	},
+	{
+		"id": 2,
+		"image": "images/Hasting-Street.png",
+		"street": "Hastings Street",
+		"call": "604 985 8213",
+		"mail": "Hastings_Broadway @gmail.com",
+		"clock": "06:00 - 23:00"
+	},
+	{
+		"id": 3,
+		"image": "images/Broadway-Street.png",
+		"street": "Broadway Street",
+		"call": "604 222 3402",
+		"mail": "Victoria_Broadway @gmail.com",
+		"clock": "06:00 - 23:00"
+	},
+	{
+		"id": 4,
+		"image": "images/Mount-Pleasant.png",
+		"street": "Mount Pleasant",
+		"call": "632 048 2081",
+		"mail": "Victoria_Mount @gmail.com",
+		"clock": "06:00 - 23:00"
+	}
+]

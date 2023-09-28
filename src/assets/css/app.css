@@ -1,0 +1,48 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+* {
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body {
+	width: 100vw;
+}
+
+.App {
+	font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+.btn-head {
+	box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+}
+
+.img-background-contact {
+	background-image: url(/src/assets/images/Contact-img.png);
+}
+
+.img-background-about {
+	background-image: url(/src/assets/images/About-img.png);
+}
+
+.img-background-div {
+	background-image: url(/src/assets/images/coffe-img.png);
+}
+
+@media screen and (max-width: 768px) {
+	.right-side {
+		padding-top: 65px;
+		transition-property: all;
+		transition-timing-function: cubic-bezier(0.4, 0, 0.2, 1);
+		transition-duration: 300ms;
+		transition-timing-function: cubic-bezier(0.4, 0, 1, 1);
+	}
+}
+
+@media screen and (max-width: 768px) {
+	.nav-call {
+		display: none;
+	}
+} ;

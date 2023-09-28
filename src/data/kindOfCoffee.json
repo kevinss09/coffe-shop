@@ -1,0 +1,30 @@
+[
+	{
+		"id": 1,
+		"flexType": "flex-row",
+		"title": "Coffee",
+		"image": "/images/coffe-1.jpg",
+		"text": "Roasting process in one of the most important steps in making a coffee and we buy and roast our coffee beans daily in our home  to give you the freshest and authentic scene."
+	},
+	{
+		"id": 2,
+		"flexType": "flex-row-reverse",
+		"title": "Tea",
+		"image": "/images/coffe-2.jpg",
+		"text": "When you are having a bad day or kind of gloomy, take a sip of our hot tea and make your days better. There are some selection from English to Jasmine tea."
+	},
+	{
+		"id": 3,
+		"flexType": "flex-row",
+		"title": "Cheesecake",
+		"image": "/images/coffe-3.jpg",
+		"text": "Cheesecake has been one of the most dominating food in Victoria coffee especially the New York cheesecake.  When you bite to it, you can taste the sweet and slightly tangy finish."
+	},
+	{
+		"id": 3,
+		"flexType": "flex-row-reverse",
+		"title": "Sandwich",
+		"image": "/images/coffe-4.jpg",
+		"text": "If you are on the rush and you just want a quick snack to-go with you, don’t worry! Our brunch sandwich is ready with its buttery avocado and pack filling will make your stomach full. "
+	}
+]
